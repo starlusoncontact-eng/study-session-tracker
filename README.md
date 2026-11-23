@@ -42,6 +42,11 @@ During the development of this project, I practiced and deepened my understandin
 - Variables, functions, and return values (to avoid situations where functions are called without storing their results)
 - Conditional statements and logical operators (to avoid confusion between `=`, `==`, `is not`, `not`, and `or`)
 - Lists, dictionaries, and other data types
+- Loops and program execution order (to avoid calling functions or using variables before they are defined in the program's execution flow)
+- User input validation and exception handling
+- Reading and writing text files
+
+This project was my first experience building a complete console application that combines multiple functions and preserves data between runs
 
 ## Screenshots
 
@@ -50,8 +55,4 @@ During the development of this project, I practiced and deepened my understandin
 
 ### Study Statistics
 ![Study statistics](statistics.png)
-- Loops and program execution order (to avoid calling functions or using variables before they are defined in the program's execution flow)
-- User input validation and exception handling
-- Reading and writing text files
 
-This project was my first experience building a complete console application that combines multiple functions and preserves data between runs
